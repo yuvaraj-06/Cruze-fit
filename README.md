@@ -1,4 +1,4 @@
-# Heptagon
+ 
 
   AI remote fitness application that provides multiple functionalities such as form/position tracking, AI virtual fitness coach that offers personalised feedback and analysis of health metrics just by using your everyday mobile camera would help individuals maintain their health while at home or even the office.
 
