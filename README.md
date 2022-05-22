@@ -4,11 +4,10 @@
 
 ## Application
 
- <img src="snaps/ss1 (1).png">
+ <img src="snaps/1.jpg">
 
- <img src="snaps/ss1 (2).png">
-
- <img src="snaps/ss1 (3).png">
+ <img src="snaps/Copy of Cruzefit Final.png">
+ 
 
 
 ## Probelm
@@ -30,18 +29,13 @@ The global fitness apps industry was accounted for $13.78 billion in 2020 and is
 
 <img src="snaps/155 (5).png">
 
-<img src="snaps/155 (4).png">
+<img src="snaps/9.jpg">
+
+<img src="snaps/10.jpg">
+
+<img src="snaps/11.jpg">
 
 ## Growth
 <img src="snaps/155 (6).png">
 
-## Unit Economics
-<img src="snaps/155 (9).png">
-
-<img src="snaps/155 (10).png">
-<img src="snaps/155 (11).png">
-
-## Competition
-<img src="snaps/155 (7).png">
-
-# Overview of application
+ 
