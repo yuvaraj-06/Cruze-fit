@@ -1,7 +1,8 @@
  
 
-  AI remote fitness application that provides multiple functionalities such as form/position tracking, AI virtual fitness coach that offers personalised feedback and analysis of health metrics just by using your everyday mobile camera would help individuals maintain their health while at home or even the office.
+## AI remote fitness application that provides multiple functionalities such as form/position tracking, AI virtual fitness coach that offers personalised feedback and analysis of health metrics just by using your everyday mobile camera would help individuals maintain their health while at home or even the office.
 
+#### DEMO VIDEO : https://drive.google.com/file/d/1_QF6YHQObhzYRXk2RlZn0gzW7RxbMGNq/view
 ## Application
 
  <img src="snaps/1.jpg">
